@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,25:FF6B00,50:FFD93D,75:00FF88,100:0080FF&height=250&section=header&text=HARSH%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=⚡%20Power%20Electronics%20Engineer%20⚡&descAlignY=65&descSize=22&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,25:FF6B00,50:FFD93D,75:00FF88,100:0080FF&height=250&section=header&text=HARSH%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=⚡Engineer%20⚡&descAlignY=65&descSize=22&animation=fadeIn)
 
 
 ---
