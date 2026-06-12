@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,25:FF6B00,50:FFD93D,75:00FF88,100:0080FF&height=250&section=header&text=HARSH%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=⚡%20Power%20Electronics%20Engineer%20⚡&descAlignY=65&descSize=22&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=750&lines=⚡+SMPS+%7C+PWM+%7C+DC-DC+Converters;🔬+Power+Systems+%7C+132kV+Grid+Operations;💻+MATLAB+%7C+Python+%7C+C%2B%2B;— Uchiha+mindset%2C+engineer+execution.)](https://git.io/typing-svg)
 
 ---
 
